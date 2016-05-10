@@ -18,7 +18,6 @@ class ViewController: UIViewController {
     let calculation = Numberss()
     override func viewDidLoad() {
         super.viewDidLoad()
-        var name = coder
         //display.text = Numberss
     }
 override func didReceiveMemoryWarning() {
